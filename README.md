@@ -1,4 +1,4 @@
-api/top-langs?username=anuraghazra
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paoli7612)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hey there! I am using WhatsApp 👋
 
