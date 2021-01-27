@@ -1,5 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paoli7612)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hey there! I am using WhatsApp 👋
 
 <!--
@@ -20,16 +18,22 @@ Here are some ideas to get you started:
 - 🤔 Unimore Scienze informatiche
 
 <details open>
-<summary>Open to see trophies.</summary>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paoli7612&theme=alduin" alt="Trophy" /></a>
+  <summary>Open to see trophies.</summary>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=paoli7612&theme=onedark" alt="Trophy" />
+  </a>
 </details>
 
 <details open>
-<summary>Open to see GitHub statistics.</summary>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=paoli7612&show_icons=true&theme=alduin&count_private=true" alt="paoli7612's GitHub Statistics" /><a/>
+  <summary>Open to see GitHub statistics.</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=paoli7612&show_icons=true&theme=onedark&count_private=true" alt="paoli7612's GitHub Statistics" />
+  <a/>
 </details>
 
 <details open>
-<summary>Open to see language statistics.</summary>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoli7612&theme=tokyonight" alt="Trophy" /></a>
+  <summary>Open to see language statistics.</summary>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoli7612&theme=onedark" alt="Trophy" />
+   </a>
 </details>
