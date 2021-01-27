@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </a>
 </details>
 
-<details open>
+<details open style="margin: auto;">
   <summary>Open to see GitHub statistics.</summary>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=paoli7612&show_icons=true&theme=onedark&count_private=true" alt="paoli7612's GitHub Statistics" />
