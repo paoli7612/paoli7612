@@ -30,10 +30,3 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=paoli7612&show_icons=true&theme=onedark&count_private=true" alt="paoli7612's GitHub Statistics" />
   <a/>
 </details>
-
-<details open>
-  <summary>Open to see language statistics.</summary>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paoli7612&theme=onedark" alt="Trophy" />
-   </a>
-</details>
