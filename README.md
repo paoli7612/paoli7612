@@ -6,4 +6,6 @@
 <a href="https://github.com/paoli7612/Arcadia">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=paoli7612&theme=onedark&repo=Arcadia"/>
 </a>
-
+<a href="https://github.com/paoli7612/Carcadia">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=paoli7612&theme=onedark&repo=Carcadia"/>
+</a>
