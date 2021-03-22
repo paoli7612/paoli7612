@@ -23,5 +23,5 @@ https://github.com/ryo-ma/github-profile-trophy
   <body>
   </body>
 </html>
-<script src="https://paoli7612.github.io/paoli7612/overview].js"></script>
+<script src="https://paoli7612.github.io/paoli7612/overview.js"></script>
 
