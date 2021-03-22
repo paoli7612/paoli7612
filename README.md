@@ -17,6 +17,6 @@
 https://github.com/ryo-ma/github-profile-trophy
 
 <div>
-<button onclick="console.log('asd')">asd</button>
+<table onclick="console.log('asd')">asd</table>
 </div>
 
