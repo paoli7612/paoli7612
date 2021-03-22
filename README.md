@@ -15,8 +15,3 @@
 </a>
 
 https://github.com/ryo-ma/github-profile-trophy
-
-<html>
-  <body onload="console.log('asd')">
-  </body>
-</html>
