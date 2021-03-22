@@ -16,5 +16,5 @@
 
 https://github.com/ryo-ma/github-profile-trophy
 
-<script src="overview.js">
-  </script>
+extra_javascript:
+    overview.js
