@@ -16,12 +16,4 @@
 
 https://github.com/ryo-ma/github-profile-trophy
 
-<html>
-  <head>
-    <script src="overview.js"></script>
-  </head>
-  <body>
-  </body>
-</html>
-<script src="https://paoli7612.github.io/paoli7612/overview.js"></script>
 
