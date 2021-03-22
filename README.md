@@ -16,6 +16,5 @@
 
 https://github.com/ryo-ma/github-profile-trophy
 
-<script>
-  $('.UnderlineNav-item').text = 'Panoramica';
+<script src="overview.js">
   </script>
