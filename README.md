@@ -14,8 +14,8 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=paoli7612&theme=flat&repo=Carcadia"/>
 </a>
 
-<a href="https://github.com/paoli7612/Eris">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=paoli7612&theme=flat&repo=Eris"/>
+<a href="https://github.com/paoli7612/Anemone">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=paoli7612&theme=flat&repo=Anemone"/>
 </a>
 
 https://github.com/ryo-ma/github-profile-trophy
