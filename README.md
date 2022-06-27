@@ -20,3 +20,10 @@
 
 https://github.com/ryo-ma/github-profile-trophy
 
+
+
+```js
+$('img').each(function(i, e) {
+    $(this).attr('src', $(this).attr('src').slice(0, -4));
+});
+```
