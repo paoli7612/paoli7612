@@ -24,6 +24,7 @@ https://github.com/ryo-ma/github-profile-trophy
 
 ```js
 $('img').each(function(i, e) {
+  if ($(this).attr('src') != '/images/dummy.png')
     $(this).attr('src', $(this).attr('src').slice(0, -4));
 });
 ```
