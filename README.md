@@ -21,24 +21,3 @@
 https://github.com/ryo-ma/github-profile-trophy
 
 
-
-```js
-$('img').each(function(i, e) {
-  if ($(this).attr('src') != '/images/dummy.png')
-    $(this).attr('src', $(this).attr('src').slice(0, -5));
-});
-$("tr").each(function() {
-    $(this).children("td:eq(1)").remove();
-    $(this).children("td:eq(2)").remove();
-    $(this).children("td:eq(2)").remove();
-    $(this).children("td:eq(3)").remove();
-    $(this).children("td:eq(3)").remove();
-    $(this).children("td:eq(3)").remove();
-});
-$('header').remove();
-$('#top').remove();
-$('.gap').remove();
-$('.container').get(1).remove();
-$('.container').get(1).remove();
-$('img').attr('style', 'height: 100px');
-```
