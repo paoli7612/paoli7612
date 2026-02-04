@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=paoli7612&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=paoli7612&theme=flat&row=2&column=3" alt="Trofei"/>
 
 <br><br>
