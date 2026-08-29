@@ -1,2 +1,21 @@
-<img src="https://github.com/ryo-ma/github-profile-trophy"></img>
-<img src="https://github-profile-trophy.vercel.app/?username=paoli7612&theme=onedark"></img>
+# Programma di studio - sito statico
+
+Repository locale pronta per GitHub Pages.
+
+## Pubblicazione su GitHub Pages
+
+1. Crea un repository su GitHub, per esempio `tuo-username.github.io`.
+2. Carica tutti i file di questa cartella nel repository.
+3. In GitHub vai su `Settings -> Pages`.
+4. Scegli `Deploy from a branch`, branch `main`, cartella `/root`.
+5. Il sito sara disponibile all'indirizzo indicato da GitHub Pages.
+
+## Struttura
+
+- `index.html`: indice generale.
+- `materie/`: pagine delle materie.
+- `capitoli/`: pagine riassuntive dei capitoli.
+- `pagine/`: una pagina HTML per ogni capitoletto.
+- `assets/styles.css`: stile grafico comune.
+
+Per modificare un capitoletto, apri il relativo file dentro `pagine/` e cambia il contenuto HTML.

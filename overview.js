@@ -1,1 +1,0 @@
-$('.UnderlineNav-item').text = 'Panoramica'; 
